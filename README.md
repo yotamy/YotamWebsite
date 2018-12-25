@@ -1,2 +1,1 @@
-Yotam Yaniv Website
-Link: https://yotamy.github.io/YotamWebsite/
+Yotam Yaniv Website: https://yotamy.github.io/YotamWebsite/
